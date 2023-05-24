@@ -1,0 +1,3 @@
+if game.PlaceId == 3623096087 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/GlitterLov3r/SoulReaperHub/main/Games/Muscle%20Legends'),true))()
+end
