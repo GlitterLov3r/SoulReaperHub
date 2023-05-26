@@ -1,4 +1,4 @@
-shared.LoaderTitle = 'SoulReaper-Hub'
+shared.LoaderTitle = 'SoulReaper Hub'
 shared.LoaderKeyFrames = {
    [1] = {1, 30}, -- [Time (s), Percentage]
    [2] = {3, 100}
