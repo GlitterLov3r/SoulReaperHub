@@ -1,3 +1,12 @@
+shared.LoaderTitle = 'SoulReaper-Hub'
+shared.LoaderKeyFrames = {
+   [1] = {1, 30}, -- [Time (s), Percentage]
+   [2] = {3, 100}
+}
+loadstring(game:HttpGet'https://raw.githubusercontent.com/ao-0/miami-nights/main/Resources/Loady/v1/Portable.lua')()
+
 if game.PlaceId == 3623096087 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/GlitterLov3r/SoulReaperHub/main/Games/Muscle%20Legends'),true))()
+elseif game.PlaceId == 6441847031 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/GlitterLov3r/SoulReaperHub/main/Games/CHAOS'),true))()
 end
