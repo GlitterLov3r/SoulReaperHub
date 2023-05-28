@@ -13,4 +13,6 @@ elseif game.PlaceId == 10353129608 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/GlitterLov3r/SoulReaperHub/main/Games/Shake%20Simulator'),true))()
 elseif game.PlaceId == 10118559731 then
    loadstring(game:HttpGet(('https://raw.githubusercontent.com/GlitterLov3r/SoulReaperHub/main/Games/nicos%20nextbots'),true))()
+elseif game.PlaceId == 2580982329 then
+   loadstring(game:HttpGet(('https://raw.githubusercontent.com/GlitterLov3r/SoulReaperHub/main/Games/Texting%20Simulator'),true))()
 end
