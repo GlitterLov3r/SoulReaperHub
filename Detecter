@@ -17,4 +17,6 @@ elseif game.PlaceId == 2580982329 then
    loadstring(game:HttpGet(('https://raw.githubusercontent.com/GlitterLov3r/SoulReaperHub/main/Games/Texting%20Simulator'),true))()
 elseif game.PlaceId == 9863691914 then
    loadstring(game:HttpGet(('https://raw.githubusercontent.com/GlitterLov3r/SoulReaperHub/main/Games/Backroom%20Morphs'),true))()
+elseif game.PlaceId == 2232225661 then
+   loadstring(game:HttpGet(('https://raw.githubusercontent.com/GlitterLov3r/SoulReaperHub/main/Games/Katana%20Simulator'),true))()
 end
